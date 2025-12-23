@@ -11,7 +11,7 @@ Completed Projects
 3⃣ Multi-Feature E-Commerce Platform
    An e-commerce website where users can buy, rent, and bid on items, combining traditional shopping with marketplace-style interactions.
 
-‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊
+‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧
 
 Upcoming / In-Progress Projects
 
