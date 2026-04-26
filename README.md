@@ -2,7 +2,7 @@ Completed Projects
 
 1⃣ Tales Brewed – Café Ordering Website
    A full-stack web application for a café that allows customers to browse the menu and place food orders online.
-   🔗 https://talesbrewed.vercel.app/cart
+   🔗 https://talesbrewed.vercel.app
 
 2⃣ Semestra – Student Class & GPA Organizer
    A web platform designed to help students organize their courses, track grades, and manage academic progress.
@@ -11,7 +11,7 @@ Completed Projects
 3⃣ Multi-Feature E-Commerce Platform
    An e-commerce website where users can buy, rent, and bid on items, combining traditional shopping with marketplace-style interactions.
 
-‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.
+‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚
 
 Upcoming / In-Progress Projects
 
