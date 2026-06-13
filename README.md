@@ -11,16 +11,16 @@ Completed Projects
 3⃣ Multi-Feature E-Commerce Platform
    An e-commerce website where users can buy, rent, and bid on items, combining traditional shopping with marketplace-style interactions.
 
+4⃣ Fact-Checking Platform
+   A website focused on verifying information and helping users assess the credibility of online claims.
+   🔗 https://github.com/FD-77/SureTex
+
+5⃣ CCNY Campus Assistance App-NavU
+   An application designed to help CCNY students navigate campus resources and access important information more easily.
+
 ‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚❀༉‧₊˚.‧₊˚
 
 Upcoming / In-Progress Projects
-
-4⃣ Fact-Checking Platform
-   A website focused on verifying information and helping users assess the credibility of online claims.
-
-5⃣ CCNY Campus Assistance App
-   An application designed to help CCNY students navigate campus resources and access important information more easily.
-
 6⃣ Medical Discussion Social Platform
    A social website that allows users to discuss medical concerns, share experiences, and support one another in a community-focused environment.
 
